@@ -1,1 +1,1 @@
-python3 ~/crypto_floating_window.py
+python3 crypto_floating_window.py
